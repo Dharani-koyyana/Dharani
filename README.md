@@ -2,8 +2,9 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bogdanp/dramatiq/master/docs/images/architecture.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/animations/coding.gif" width="700"/>
 </p>
+
 <h1 align="center">Dharani</h1>
 
 <p align="center">
