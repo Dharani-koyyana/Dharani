@@ -4,10 +4,10 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/154864159?s=400&u=96e90a969c61a26633db98e783fa7793ee61750b&v=4" width="400"/>
 </p>
-<h1 align="center">Dharani</h1>
+<h1 align="center">Dharani Koyyana</h1>
 
 <p align="center">
-  <i>Software Engineer | Backend | DevOps Enthusiast</i>
+  <i>Python Full Stack Developer | Web Development | Aws Cloud | REST API</i>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 ## 👋 Hello!
 
-I am **Dharani**, a passionate software engineer who enjoys building backend systems, working with APIs, and automating workflows using DevOps tools.
+I am **Dharani**, a passionate software Developer who enjoys building backend systems, working with APIs, and automating workflows using DevOps tools.
 
 - 🔧 Backend Development
 - ☁️ Cloud & DevOps
@@ -54,7 +54,6 @@ I am **Dharani**, a passionate software engineer who enjoys building backend sys
 
 ### 💻 Languages
 - Python
-- JavaScript
 - SQL
 
 ### 🧰 Frameworks & Tools
