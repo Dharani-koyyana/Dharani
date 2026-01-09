@@ -2,7 +2,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/154864159?v=4&size=64" width="220" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/154864159?v=4&size=64" width="200" style="border-radius:50%;" />
 </p>
 <h1 align="center">Dharani</h1>
 
@@ -14,8 +14,9 @@
 
 <!-- DevOps Infinity Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-3c3b9e91-2c93-4d6f-8a24-b98c6b2e3f5e.png" width="600" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
 </p>
+
 
 ---
 
