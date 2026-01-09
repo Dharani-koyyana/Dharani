@@ -55,6 +55,8 @@ I am **Dharani**, a passionate software Developer who enjoys building backend sy
 ### 💻 Languages
 - Python
 - SQL
+- Git & Github
+- REST API
 
 ### 🧰 Frameworks & Tools
 - Django
@@ -71,12 +73,4 @@ I am **Dharani**, a passionate software Developer who enjoys building backend sy
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharani&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharani&theme=tokyonight" />
-</p>
