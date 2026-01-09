@@ -2,7 +2,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/154864159?u=297602e1878672cfc3d09e7c2b0b47d6c17fd24c&v=4&size=64" width="700"/>
+  <img src="https://avatars.githubusercontent.com/u/154864159?s=400&u=96e90a969c61a26633db98e783fa7793ee61750b&v=4" width="400"/>
 </p>
 <h1 align="center">Dharani</h1>
 
