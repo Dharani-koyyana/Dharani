@@ -15,8 +15,9 @@
 
 <!-- DevOps Infinity Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/roadmaps/python.png" width="750"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
 </p>
+
 
 
 
