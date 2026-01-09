@@ -2,7 +2,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/154864159?v=4&size=64" width="200" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/Bogdanp/dramatiq/master/docs/images/architecture.png" width="600"/>
 </p>
 <h1 align="center">Dharani</h1>
 
