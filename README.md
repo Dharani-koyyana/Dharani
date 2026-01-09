@@ -2,9 +2,8 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/animations/coding.gif" width="700"/>
+  <img src="https://avatars.githubusercontent.com/u/154864159?u=297602e1878672cfc3d09e7c2b0b47d6c17fd24c&v=4&size=64" width="700"/>
 </p>
-
 <h1 align="center">Dharani</h1>
 
 <p align="center">
