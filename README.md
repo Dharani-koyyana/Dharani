@@ -15,8 +15,9 @@
 
 <!-- DevOps Infinity Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=306998&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Developer;Django+%7C+AWS+%7C+Celery;GitHub+%7C+Backend+Engineering" />
+  <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/roadmaps/python.png" width="750"/>
 </p>
+
 
 
 
