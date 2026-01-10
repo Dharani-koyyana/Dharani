@@ -17,10 +17,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
 </p>
 
-
-
-
-
 ---
 
 <!-- LinkedIn Button -->
@@ -31,18 +27,13 @@
 </p>
 
 ---
-
 <!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dharani&label=visitors&color=0e75b6&style=flat"/>
 </p>
-
 ---
-
 ## 👋 Hello!
-
 I am **Dharani**, a passionate software Developer who enjoys building backend systems, working with APIs, and automating workflows using DevOps tools.
-
 - 🔧 Backend Development
 - ☁️ Cloud & DevOps
 - 🧪 Automation & Testing
@@ -70,7 +61,19 @@ I am **Dharani**, a passionate software Developer who enjoys building backend sy
 - GitHub Actions
 - AWS (EC2, S3, Lambda)
 - Linux
+- 
+## 🛠 Language and Tools
 
----
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" width="40"/>
+</p>
+
+**Python | Django | Django REST Framework | Celery | AWS | GitHub | GitHub Actions | YAML**
+
 
 
