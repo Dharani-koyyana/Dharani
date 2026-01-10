@@ -4,44 +4,26 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/154864159?s=400&u=96e90a969c61a26633db98e783fa7793ee61750b&v=4" width="400"/>
 </p>
-<h1 align="center">Dharani Koyyana</h1>
-
-<p align="center">
-  <i>Python Full Stack Developer | Web Development | Aws Cloud | REST API</i>
-</p>
-
----
-
-<!-- DevOps Infinity Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
 </p>
-
----
-
-<!-- LinkedIn Button -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dharani&label=visitors&color=0e75b6&style=flat"/>
+<p align ="center">
+**Hello!** 👋
 </p>
----
-## 👋 Hello!
-I am **Dharani**, a passionate software Developer who enjoys building backend systems, working with APIs, and automating workflows using DevOps tools.
-- 🔧 Backend Development
-- ☁️ Cloud & DevOps
-- 🧪 Automation & Testing
-- 🚀 CI/CD Pipelines
+<!-- Visitor Counter -->
 
----
+👩‍💻 About Me
 
-## 🛠️ Tech Stack
+# 👋 Hi there, I'm Dharani
+
+### 🚀 Python Full Stack Developer | Web Development | Aws Cloud | REST API
+
+Welcome to my GitHub! I’m Dharani, a passionate Software Developer with 2.2 years of professional experience, specializing in backend development, API design, and workflow automation. I enjoy building reliable, scalable systems and enhancing them using modern development and DevOps practices.
 
 ### 💻 Languages
 - Python
@@ -61,7 +43,7 @@ I am **Dharani**, a passionate software Developer who enjoys building backend sy
 - GitHub Actions
 - AWS (EC2, S3, Lambda)
 - Linux
-- 
+  
 ## 🛠 Language and Tools
 
 <p align="left">
